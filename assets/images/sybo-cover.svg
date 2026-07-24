@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02060b"/><stop offset=".55" stop-color="#071523"/><stop offset="1" stop-color="#020408"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#118dff" stop-opacity=".52"/><stop offset="1" stop-color="#118dff" stop-opacity="0"/></radialGradient>
+ <linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".32" stop-color="#aab7c4"/><stop offset=".55" stop-color="#f8fbff"/><stop offset="1" stop-color="#596979"/></linearGradient>
+ <filter id="blue"><feGaussianBlur stdDeviation="12"/></filter>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".7"/></filter>
+ <clipPath id="portrait"><rect x="0" y="0" width="720" height="960" rx="34"/></clipPath>
+</defs>
+<rect width="720" height="960" rx="34" fill="url(#bg)"/>
+<circle cx="520" cy="360" r="300" fill="url(#glow)"/>
+<path d="M35 190H685M35 300H685M35 410H685M35 520H685M35 630H685M140 80V880M270 80V880M400 80V880M530 80V880" stroke="#168df2" stroke-opacity=".07"/>
+<g opacity=".7"><path d="M35 760 C190 690 280 820 430 730 S630 700 700 610" fill="none" stroke="#148fff" stroke-width="3"/><circle cx="430" cy="730" r="6" fill="#61c4ff"/></g>
+<image href="https://raw.githubusercontent.com/soheil78ai/sybo1/main/assets/sybo.png" x="80" y="95" width="570" height="790" preserveAspectRatio="xMidYMax meet" clip-path="url(#portrait)" filter="url(#shadow)"/>
+<ellipse cx="365" cy="870" rx="270" ry="38" fill="#118dff" opacity=".16" filter="url(#blue)"/>
+<g transform="translate(42 45)"><circle cx="30" cy="30" r="28" fill="none" stroke="url(#metal)" stroke-width="9"/><path d="M12 28c10-22 34-22 40-5-5 15-24 15-33 8 2 17 24 22 36 7" fill="none" stroke="url(#metal)" stroke-width="7" stroke-linecap="round"/></g>
+<g transform="translate(45 835)"><rect width="630" height="78" rx="22" fill="#06111e" fill-opacity=".88" stroke="#238eff" stroke-opacity=".45"/><circle cx="42" cy="39" r="9" fill="#25a6ff"><animate attributeName="opacity" values=".35;1;.35" dur="2s" repeatCount="indefinite"/></circle><text x="68" y="34" fill="#fff" font-size="23" font-family="Arial" font-weight="700">SYBO · AI BUSINESS ASSISTANT</text><text x="68" y="60" fill="#7fbce9" font-size="15" font-family="Arial">3D CINEMATIC CONTENT SYSTEM</text></g>
+</svg>
