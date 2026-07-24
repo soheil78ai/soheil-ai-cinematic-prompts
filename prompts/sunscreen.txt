@@ -1,0 +1,33 @@
+Create an ultra-realistic premium cinematic vertical 9:16 video, exactly 10 seconds long, using the uploaded reference image as the primary source of truth.
+
+GOAL:
+Create a soft-sell Persian advertisement for an Iranian sunscreen brand at Si-o-se-pol, Isfahan. The scene must feel like a short lifestyle film, not a presenter-style commercial.
+
+IDENTITY AND LOCATION:
+Preserve the two Iranian partners' faces, clothing, body proportions and visual continuity from the reference image. Si-o-se-pol must be clearly recognizable. Water must be visibly flowing beneath the bridge. Strong warm summer sunlight, realistic Isfahan atmosphere, natural skin texture, premium commercial lighting.
+
+CHARACTERS:
+- WOMAN: Iranian, 24–28, warm, lively, confident.
+- MAN: Iranian, 25–30, friendly, playful.
+Both speak natural Persian with a subtle believable Isfahani accent. Never exaggerate the accent.
+
+EXACT TIMELINE:
+0.0–2.3s — Wide cinematic tracking shot. The couple reaches the water happily. The woman looks at the river and says:
+«وای خدایا شکرت، آب باز شده!»
+
+2.3–4.7s — The man shields his eyes from the intense sun, looks at the water, then says:
+«حیف این آفتاب داغه... هوا کیک‌پزونه!»
+
+4.7–7.7s — The woman smiles, opens her handbag, removes the real sunscreen product and holds it naturally—not toward the camera like a presenter. She says:
+«اشکال نداره؛ ضدآفتابم همیشه همراهمه، بیا تو هم بزن.»
+
+7.7–10.0s — She gives him the product. They apply a small amount naturally, sit near the water in a safe shaded position and smile. End on a premium hero frame with the product visible but not aggressively placed.
+
+AUDIO:
+Native Persian audio, two clearly different voices, soft city and water ambience, gentle modern cinematic music under dialogue. Music must never overpower speech.
+
+STRICT SPEAKER RULES:
+Only the WOMAN speaks the woman lines. Only the MAN speaks the man line. Never swap voices. Never overlap dialogue. The silent character listens and reacts naturally. Perfect Persian lip synchronization. No narration. No subtitles. No generated text.
+
+NEGATIVE:
+No face drift, no altered clothing, no dry river, no wrong bridge, no exaggerated accent, no burned skin, no medical claims, no hard-sell presentation, no extra fingers, no product distortion, no English speech, no camera shake.
