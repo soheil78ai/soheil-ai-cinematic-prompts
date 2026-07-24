@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02050a"/><stop offset=".5" stop-color="#071522"/><stop offset="1" stop-color="#020408"/></linearGradient>
+ <radialGradient id="stadium"><stop stop-color="#198fff" stop-opacity=".48"/><stop offset="1" stop-color="#198fff" stop-opacity="0"/></radialGradient>
+ <linearGradient id="kit" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101820"/><stop offset=".55" stop-color="#020508"/><stop offset="1" stop-color="#0b6eb5"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="14"/></filter>
+ <filter id="shadow"><feDropShadow dx="0" dy="20" stdDeviation="20" flood-color="#000" flood-opacity=".75"/></filter>
+</defs>
+<rect width="720" height="960" rx="34" fill="url(#bg)"/>
+<ellipse cx="360" cy="430" rx="370" ry="310" fill="url(#stadium)"/>
+<path d="M65 205Q360 70 655 205M55 242Q360 115 665 242" fill="none" stroke="#8dcfff" stroke-opacity=".18" stroke-width="5"/>
+<g opacity=".75"><circle cx="80" cy="140" r="8" fill="#fff"/><circle cx="145" cy="115" r="8" fill="#fff"/><circle cx="575" cy="115" r="8" fill="#fff"/><circle cx="640" cy="140" r="8" fill="#fff"/></g>
+<path d="M55 760H665M110 760L170 480H550L610 760M260 760V480M460 760V480" fill="none" stroke="#4a9eda" stroke-opacity=".16" stroke-width="3"/>
+<g transform="translate(135 190)" filter="url(#shadow)">
+ <circle cx="230" cy="80" r="59" fill="#b98260"/>
+ <path d="M176 78c8-58 44-85 95-68 34 12 50 47 40 82-41-23-90-20-135-14z" fill="#111820"/>
+ <path d="M155 172c46-39 111-43 158-3 38 33 54 89 42 143l-35 155H132L96 312c-13-54 5-108 59-140z" fill="url(#kit)"/>
+ <path d="M210 157h41l18 68-39 52-39-52z" fill="#167fca" opacity=".75"/>
+ <path d="M122 242 28 366M334 242l92 111" fill="none" stroke="#b98260" stroke-width="31" stroke-linecap="round"/>
+ <path d="M152 455 92 653M306 455l86 180" fill="none" stroke="#0b1015" stroke-width="45" stroke-linecap="round"/>
+ <path d="M80 655l-30 28M394 637l44 25" stroke="#e8eef3" stroke-width="23" stroke-linecap="round"/>
+</g>
+<g transform="translate(480 660)">
+ <circle cx="0" cy="0" r="67" fill="#f4f6f7" stroke="#9cb0c2" stroke-width="4"/>
+ <path d="M0-26 25-8 16 22-16 22-25-8z" fill="#111820"/>
+ <path d="M0-26 0-59M25-8l38-10M16 22l25 34M-16 22l-25 34M-25-8l-38-10" stroke="#111820" stroke-width="8"/>
+</g>
+<path d="M480 660C420 610 390 555 368 500" fill="none" stroke="#56baff" stroke-width="5" stroke-dasharray="12 10" opacity=".9"/>
+<g transform="translate(44 42)"><rect width="248" height="48" rx="18" fill="#06111e" stroke="#2ba4ff" stroke-opacity=".55"/><circle cx="25" cy="24" r="7" fill="#35b2ff"/><text x="45" y="31" fill="#dcefff" font-family="Arial" font-size="18" font-weight="700">FOOTBALL ACADEMY</text></g>
+<g transform="translate(48 833)"><rect width="624" height="78" rx="22" fill="#06111e" fill-opacity=".92" stroke="#238eff" stroke-opacity=".45"/><text x="312" y="34" text-anchor="middle" fill="#fff" font-family="Tahoma,Arial" font-size="22" font-weight="700">استعدادت را حدس نزن؛ امتحانش کن</text><text x="312" y="59" text-anchor="middle" fill="#7fc8f8" font-family="Arial" font-size="15">ASSESSMENT → TRAINING → MATCH RESULT</text></g>
+</svg>
