@@ -1,0 +1,102 @@
+Create an ultra-realistic premium cinematic vertical 9:16 sports advertisement, exactly 10.0 seconds long, for an Iranian professional youth football academy named:
+«آکادمی فوتبال سایبو»
+
+All spoken dialogue must be natural contemporary Iranian Persian. Do not translate Persian dialogue. No generated subtitles, captions, logos or written text; the creator adds branding later.
+
+COMMERCIAL OBJECTIVE:
+Create a high-converting mini-film that makes Iranian teenage football players and their parents interested in registering for an initial football assessment. Communicate:
+- some players are not weak; they have never been assessed correctly
+- Sybo Football Academy identifies strengths
+- every athlete receives focused personalized training
+- academy develops decision-making, technique, confidence and match intelligence
+- registration begins with one simple initial assessment
+Viewer should think: «شاید من هم استعداد دارم؛ باید برای تست آکادمی سایبو ثبت‌نام کنم.»
+
+STORY:
+A talented Iranian teenager named Arman is ignored during an ordinary selection test. Coach Reza from Sybo Football Academy notices what others missed. After personalized training, Arman becomes the key creator of a decisive match goal. Final message: hidden talent needs correct assessment.
+
+CHARACTERS:
+ARMAN: handsome athletic Iranian teenager, 16, dark natural hair, expressive brown eyes, lean body. Disappointed at first, disciplined during training, confident in final match. Simple dark kit at rejection; premium black/electric-blue academy kit during training and match. No readable generated text.
+COACH REZA: Iranian coach, 42, athletic, short dark hair with gray temples, neat beard, calm authoritative observer. Premium black tracksuit with subtle electric-blue details. Never unnecessarily shouts.
+ALI: Iranian teenage teammate, 16, energetic and genuinely impressed.
+OTHER PLAYERS: realistic Iranian teens only in background.
+
+VISUAL STYLE:
+High-end cinematic sports commercial; realistic stadium, sweat, grass and football mechanics; cool desaturated failure scene, deep black/electric blue academy identity, warm victory highlights; smooth gimbal tracking, low-angle hero shots, selected high-speed moments, precise continuity. No video-game look or impossible physics.
+
+EXACT 10-SECOND SEQUENCE:
+
+SHOT 1 — EXPLOSIVE HOOK AND REWIND — 0.0 TO 1.4 SECONDS
+Professional night stadium, floodlights, crowded stands in soft focus, light atmospheric mist.
+Camera inside the goal immediately behind net from goalkeeper point of view. A football travels at extreme speed into upper corner, strikes net beside camera, net stretches across lens, crowd erupts, brief realistic shake.
+At exact impact freeze all motion. Crowd sound disappears; one deep heartbeat remains.
+Coach Reza voice-over says:
+«فکر می‌کنی این گل از همین‌جا شروع شد؟»
+Trigger rapid cinematic reverse-time transition: net releases ball, ball flies backward, players run backward, lights streak, scene rewinds to several weeks earlier.
+
+SHOT 2 — REJECTION AND DISCOVERY — 1.4 TO 3.3 SECONDS
+Basic outdoor selection field on cold gray morning, ordinary slightly worn environment, desaturated colors.
+Selected players walk proudly to field. Arman remains alone beside bench because his name was not called. He lowers his head and starts loosening his boot.
+A football rolls into foreground and stops beside his foot. Coach Reza enters and stops it with sole of shoe.
+Camera: close-up hand loosening lace, rack focus to ball, tilt from coach shoe to face.
+Coach Reza looks at Arman and says:
+«آرمان، تو ضعیف نیستی؛ فقط درست دیده نشدی.»
+Arman raises his head; defeat becomes surprised attention. He stays silent.
+
+SHOT 3 — PERSONALIZED TRAINING TRANSFORMATION — 3.3 TO 6.2 SECONDS
+Premium modern Sybo training facility: fresh grass, electric-blue lights, black equipment, cones, speed gates, reaction lights and tactical board. No readable signage.
+Rapid beat-synchronized montage of five 0.5–0.6 sec micro-shots:
+A. Coach measures Arman’s sprint acceleration through timing gates.
+B. Arman performs close-control dribbling; coach corrects body and support foot angle.
+C. Arman receives a pass after scanning both shoulders; close-up of eyes.
+D. Blue reaction lights activate; Arman changes direction and passes to correct gate.
+E. Coach shows a tactical movement on a tablet with no readable UI; match-cut to Arman executing it.
+Coach Reza says over montage:
+«اینجا هر بازیکن، برنامه مخصوص خودش رو داره.»
+Camera: low tracking sprint, macro boots cutting grass, whip pan, speed ramp, one overhead tactical shot. Realistic mechanics.
+
+SHOT 4 — RESULT IN MATCH — 6.2 TO 8.5 SECONDS
+Match-cut training ball to match ball in opening stadium.
+Arman receives outside penalty area. Two defenders close him down; everyone expects shot. Enter 0.25 sec controlled slow motion. Arman scans before ball arrives, sees Ali’s hidden run, performs realistic body feint, pulls defenders toward himself, sends perfectly weighted through-pass between them. Ali strikes first time into same upper corner shown in opening.
+Camera: dynamic side track, close-up scanning eyes, brief overhead passing lane, follow ball, cut to inside-goal camera.
+Reduce music and crowd during pass, emphasize clean boot contact; restore full crowd and musical release on goal.
+Arman’s value is vision, timing, teamwork and intelligence, not only scoring.
+
+SHOT 5 — CONVERSION AND REGISTRATION DESIRE — 8.5 TO 10.0 SECONDS
+Ali runs to Arman after goal, arm around shoulder. Both breathless and genuinely excited.
+Ali asks:
+«آرمان، تو رو کی این‌جوری ساخت؟»
+Arman looks toward Coach Reza, taps academy emblem area and says:
+«آکادمی فوتبال سایبو؛ من فقط با یه تست شروع کردم.»
+Very fast final cut: Coach Reza at training pitch entrance during golden sunrise. A new Iranian teenager stands hesitantly with old boots. Coach gently rolls a ball toward him and says:
+«حالا نوبت توئه.»
+New teenager stops ball and looks toward illuminated field with determination. End on eyes. No generated text.
+
+STRICT PERSIAN DIALOGUE:
+Only COACH REZA: «فکر می‌کنی این گل از همین‌جا شروع شد؟»
+Only COACH REZA: «آرمان، تو ضعیف نیستی؛ فقط درست دیده نشدی.»
+Only COACH REZA: «اینجا هر بازیکن، برنامه مخصوص خودش رو داره.»
+Only ALI: «آرمان، تو رو کی این‌جوری ساخت؟»
+Only ARMAN: «آکادمی فوتبال سایبو؛ من فقط با یه تست شروع کردم.»
+Only COACH REZA: «حالا نوبت توئه.»
+No translation, paraphrase, repetition, extra dialogue or overlap. Precise lip sync. First line may be voice-over; all others belong to visible speakers.
+
+VOICE DIRECTION:
+COACH REZA: Iranian male, 42, medium-low pitch, calm, mature, professional and authoritative, no aggression.
+ARMAN: Iranian teenage male, youthful, athletic, confident and slightly breathless after goal; genuine, not commercial.
+ALI: clearly different Iranian teenage male, energetic and spontaneous.
+No foreign Persian accent, no robotic delivery.
+
+MUSIC:
+0.0–1.4: ball impact, crowd explosion, sudden silence and heartbeat.
+1.4–3.3: minimal tense pulse and low piano.
+3.3–6.2: modern athletic percussion, realistic boots/ball/breathing/whistle/reaction beeps.
+6.2–8.5: build rapidly, brief silence before final pass, controlled explosive release on goal.
+8.5–10: short victorious rhythm ending with clean impact on «حالا نوبت توئه.»
+Dialogue always above music.
+
+CONTINUITY:
+Preserve Arman, Coach Reza and Ali identities, ages and clothing. Same academy kit training and match. Same ball size and logical direction. Opening goal must exactly match final goal and enter same upper corner.
+
+NEGATIVE CONSTRAINTS:
+No cartoon, video-game look, fantasy stadium, superhero movement, impossible ball/body physics, excessive slow motion, duplicated players or ball, extra limbs, distorted hands/feet, identity or age drift, unreadable text, foreign-looking cast, aggressive humiliation, injury, violence, dangerous tackle, robotic Persian, voice swap, overlap, English dialogue, subtitles, fake crowd loop, excessive shake, confusing montage, hard-sell presenter or guarantee of professional success.
