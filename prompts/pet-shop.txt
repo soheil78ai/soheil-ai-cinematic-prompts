@@ -1,0 +1,109 @@
+Create an ultra-realistic premium cinematic vertical 9:16 advertising film, exactly 10.0 seconds long, using the uploaded image as the primary visual and identity reference.
+
+BRAND:
+«پت‌شاپ سایبو»
+
+PRIMARY GOAL:
+Create a complete emotional mini-story within exactly 10 seconds. The story begins with emotional loneliness, moves through brief responsible professional guidance, reaches an extraordinary emotional moment in which a kitten appears to choose the woman, and ends with the woman naturally recommending Sybo Pet Shop to her friend.
+
+IMPORTANT MEDICAL STORY RULE:
+Do not imply that buying or adopting a cat cures depression. The psychiatrist must indicate that professional treatment continues, while companionship and responsible pet care may provide emotional support. The later improvement represents comfort, companionship and renewed daily energy, not a medical cure.
+
+REFERENCE AND IDENTITY LOCK:
+Use the uploaded image as the absolute source of truth for:
+- main woman’s exact facial identity
+- elegant natural beauty and realistic skin texture
+- soft beige headscarf
+- neutral-toned stylish outfit
+- body proportions and graceful body language
+- fluffy kitten’s exact fur color, size and facial appearance
+- premium warm pet-boutique atmosphere
+Preserve continuity in every shot. Do not redesign, replace or excessively beautify the woman or kitten.
+
+CHARACTERS:
+MAIN WOMAN — «رها»: Iranian woman, 24–28, emotionally tired at the beginning but never melodramatic. Same face, scarf and outfit throughout.
+FRIEND — «سارا»: Iranian woman of similar age, compassionate, natural and supportive.
+PSYCHIATRIST — «دکتر فرهاد»: Iranian male psychiatrist, 40–50, calm, professional and reassuring.
+KITTEN: one fluffy, extremely cute, realistic kitten matching the reference. Natural behavior only.
+
+VISUAL STYLE:
+Premium Iranian lifestyle commercial. Intimate, elegant, believable, realistic camera physics, shallow depth of field, subtle film grain, cinematic motion blur and precise continuity.
+
+COLOR STORY:
+Shots 1–2 use cool desaturated blue-gray tones and low emotional energy. At the exact moment the kitten touches the woman, transition naturally to warm gold, richer skin tones and hopeful sunlight. No fantasy magic or glowing animal.
+
+EXACT 10-SECOND SEQUENCE:
+
+SHOT 1 — EMOTIONAL HOOK — 0.0 TO 1.6 SECONDS
+Location: stylish but dim apartment beside a rain-streaked or softly fogged window. Cool blue-gray morning light.
+Start with extreme close-up of one tear rolling down Raha’s cheek. Camera pulls back smoothly, revealing her sitting on the edge of a sofa with a crumpled tissue. Sara kneels beside her and gently holds her hand.
+Sara asks in Persian:
+«چی شده؟»
+Raha looks down and answers quietly:
+«هیچی حالمو خوب نمی‌کنه...»
+Performance: restrained exhaustion, soft breath, no loud crying or dramatic sobbing.
+
+SHOT 2 — RESPONSIBLE PROFESSIONAL GUIDANCE — 1.6 TO 3.6 SECONDS
+Use a fast sound bridge and match cut from the tissue to Raha’s hand resting calmly in a modern psychiatrist’s consultation room with neutral warm-gray walls.
+Show Dr. Farhad in three-quarter profile, Raha listening in foreground. He says calmly:
+«درمانت رو ادامه بده؛ به یه همراه کوچیک هم فکر کن.»
+Raha silently raises her eyes with slight curiosity. Short controlled lateral camera slide. No readable prescription paper.
+
+SHOT 3 — EXTRAORDINARY CHOICE MOMENT — 3.6 TO 6.5 SECONDS
+A small pet-shop door chime starts before the cut.
+Inside a premium modern pet boutique with warm integrated lighting, tasteful beds, toys and accessories in soft focus. Raha enters only to look. Several kittens stay calmly in the background, but the reference kitten notices her, walks past the others and approaches directly.
+Raha slowly kneels. Extreme close-up: kitten raises one paw and gently places it on her open hand. Cut immediately to Raha’s eyes; the first small authentic smile appears. Kitten climbs naturally into her lap and gently touches her cheek.
+Raha whispers:
+«وای... خودش منو انتخاب کرد.»
+At the exact paw-touch moment:
+- palette transitions cool to warm
+- one soft emotional piano note enters
+- subtle golden dust becomes visible naturally in light
+- background sound softens briefly
+- camera performs a gentle circular movement
+No supernatural effect.
+
+SHOT 4 — TRANSFORMATION MONTAGE — 6.5 TO 8.0 SECONDS
+Three fast cinematic match cuts, each about 0.45 seconds:
+1. kitten gently wakes Raha by touching her cheek in a sunlit bedroom
+2. Raha smiles while pouring food into the kitten’s bowl
+3. Raha walks outside confidently at golden hour carrying the kitten safely in an elegant pet carrier or securely in her arms
+Show calmer routine, companionship and warmth. No dialogue. Do not imply full medical recovery.
+
+SHOT 5 — NATURAL RECOMMENDATION — 8.0 TO 10.0 SECONDS
+Beautiful outdoor pedestrian path at warm golden hour. Raha and Sara walk side by side. Kitten is safely held against Raha’s chest or in an elegant open carrier.
+Sara looks at the kitten and asks quickly:
+«این نازو از کجا آوردی؟»
+Raha smiles, looks at kitten and replies:
+«از پت‌شاپ سایبو... بهترین اتفاق این روزام بود.»
+She gently touches her forehead to the kitten’s forehead. Camera pulls back smoothly with premium rim light. End on authentic smile and calm kitten.
+
+EXACT DIALOGUE AND SPEAKER ASSIGNMENT:
+Only SARA: «چی شده؟»
+Only RAHA: «هیچی حالمو خوب نمی‌کنه...»
+Only DR. FARHAD: «درمانت رو ادامه بده؛ به یه همراه کوچیک هم فکر کن.»
+Only RAHA: «وای... خودش منو انتخاب کرد.»
+Only SARA: «این نازو از کجا آوردی؟»
+Only RAHA: «از پت‌شاپ سایبو... بهترین اتفاق این روزام بود.»
+Do not translate, paraphrase, shorten, repeat or add dialogue. No overlap. Only active speaker moves lips.
+
+VOICE DIRECTION:
+RAHA: young Iranian female voice, warm, elegant, emotionally sincere, medium pitch, tired in opening and warmer after meeting kitten. Natural conversational Persian, no presenter voice.
+SARA: clearly different Iranian female voice, slightly brighter, compassionate and spontaneous.
+DR. FARHAD: mature Iranian male voice, calm, professional, reassuring, not judgmental.
+
+CUSTOM VOICE ASSIGNMENT:
+@Voice: [CUSTOM VOICE NAME]
+The selected Custom Voice belongs exclusively to RAHA. SARA and DR. FARHAD must use clearly different naturally generated voices. Never swap or blend voices.
+
+MUSIC AND SOUND:
+0.0–3.6: low-volume emotional piano and soft atmospheric pad.
+3.6–6.5: one warm piano chord and delicate strings on paw touch.
+6.5–10.0: gently hopeful music, never loud or overly sentimental.
+Include subtle apartment room tone, distant rain/city, quiet consultation room, pet-shop chime, one realistic meow, fabric movement and natural outdoor ambience. Dialogue always clear above music.
+
+TEXT AND GRAPHICS:
+No subtitles, captions, generated logos, promotional text or readable storefront writing. Creator adds branding later.
+
+NEGATIVE CONSTRAINTS:
+No cartoon, fantasy, supernatural healing, implication that pet replaces therapy or medication, exaggerated crying, self-harm imagery, hospital emergency, facial identity drift, scarf/outfit change, plastic skin, distorted kitten anatomy, extra limbs, aggressive handling, duplicated kitten, extra fingers, merged hands, hard-sell ad, prices, discounts, salesperson dialogue, generated text, English speech, voice swapping, overlap, robotic Persian, lip-sync mismatch, uncontrolled shake or confusing transitions.
