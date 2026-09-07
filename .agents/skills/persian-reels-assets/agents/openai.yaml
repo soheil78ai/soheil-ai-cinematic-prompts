@@ -1,0 +1,4 @@
+interface:
+  display_name: "Persian Reels Assets"
+  short_description: "Create separate transparent Persian edit assets for Reels"
+  default_prompt: "Use $persian-reels-assets to turn this scenario, transcript, or video into a complete pack of separate transparent Persian edit assets with a timeline manifest."
