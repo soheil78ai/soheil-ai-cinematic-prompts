@@ -1,0 +1,4 @@
+interface:
+  display_name: "Persian Reels Video Editor"
+  short_description: "Edit 9:16 Persian Reels with subtitles, pacing, graphics, and SFX"
+  default_prompt: "Use $persian-reels-video-editor to edit this uploaded video or scenario into a polished Persian 9:16 Reel with accurate subtitles, intentional cuts, graphics, and sound cues."
